@@ -1,0 +1,15 @@
+/Users/max/Desktop/Домашка C#/homework_2/task13/bin/Debug/net6.0/task13
+/Users/max/Desktop/Домашка C#/homework_2/task13/bin/Debug/net6.0/task13.deps.json
+/Users/max/Desktop/Домашка C#/homework_2/task13/bin/Debug/net6.0/task13.runtimeconfig.json
+/Users/max/Desktop/Домашка C#/homework_2/task13/bin/Debug/net6.0/task13.dll
+/Users/max/Desktop/Домашка C#/homework_2/task13/bin/Debug/net6.0/task13.pdb
+/Users/max/Desktop/Домашка C#/homework_2/task13/obj/Debug/net6.0/task13.csproj.AssemblyReference.cache
+/Users/max/Desktop/Домашка C#/homework_2/task13/obj/Debug/net6.0/task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/max/Desktop/Домашка C#/homework_2/task13/obj/Debug/net6.0/task13.AssemblyInfoInputs.cache
+/Users/max/Desktop/Домашка C#/homework_2/task13/obj/Debug/net6.0/task13.AssemblyInfo.cs
+/Users/max/Desktop/Домашка C#/homework_2/task13/obj/Debug/net6.0/task13.csproj.CoreCompileInputs.cache
+/Users/max/Desktop/Домашка C#/homework_2/task13/obj/Debug/net6.0/task13.dll
+/Users/max/Desktop/Домашка C#/homework_2/task13/obj/Debug/net6.0/refint/task13.dll
+/Users/max/Desktop/Домашка C#/homework_2/task13/obj/Debug/net6.0/task13.pdb
+/Users/max/Desktop/Домашка C#/homework_2/task13/obj/Debug/net6.0/task13.genruntimeconfig.cache
+/Users/max/Desktop/Домашка C#/homework_2/task13/obj/Debug/net6.0/ref/task13.dll
